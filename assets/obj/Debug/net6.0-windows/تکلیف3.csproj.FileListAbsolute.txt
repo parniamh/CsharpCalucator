@@ -1,0 +1,36 @@
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.AssemblyReference.cache
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.Form1.resources
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.GenerateResource.cache
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.AssemblyInfoInputs.cache
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.AssemblyInfo.cs
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.CoreCompileInputs.cache
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.exe
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.deps.json
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.runtimeconfig.json
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.dll
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.pdb
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.dll
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\refint\تکلیف3.dll
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.pdb
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.genruntimeconfig.cache
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\ref\تکلیف3.dll
+C:\Users\paryha\source\repos\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.Properties.Resources.resources
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.exe
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.deps.json
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.runtimeconfig.json
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.dll
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\bin\Debug\net6.0-windows\تکلیف3.pdb
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.AssemblyReference.cache
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.Form1.resources
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.Properties.Resources.resources
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.GenerateResource.cache
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.AssemblyInfoInputs.cache
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.AssemblyInfo.cs
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.csproj.CoreCompileInputs.cache
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.dll
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\refint\تکلیف3.dll
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.pdb
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\تکلیف3.genruntimeconfig.cache
+C:\Users\paryha\Desktop\دانشگاه\برنامه نویسی پیشرفته\تکلیف3\تکلیف3\obj\Debug\net6.0-windows\ref\تکلیف3.dll
