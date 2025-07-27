@@ -17,7 +17,7 @@ It shows how user actions trigger different logic paths through event handling.
 🛠️ Environment: Visual Studio  
 
 ## 📸 Demo  
-Simple Calculator Interface — Number buttons, basic operations, and math tools
+![calucator Demo](assets/CsharpCalucator.gif)
 
 ## 📁 Download and Run  
 To run the project:  
